@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Logo in the top left -->
+  <div class="header">
+    <img src="logo.png" alt="Logo" class="logo"> <!-- Add your logo file here -->
+    <h2>SavvyFind</h2>
+  </div>
+
+  <!-- Product search section -->
+  <div class="input-section">
+    <input type="text" id="product-search" placeholder="Search for a product..." />
+    <button id="search-btn">$</button>
+  </div>
+
+  <!-- Loading indicator -->
+  <div id="loading" class="loading">Loading...</div>
+
+  <!-- Result section for displaying prices -->
+  <div id="result"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
