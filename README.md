@@ -1,6 +1,15 @@
 # Price-Comparison-WebExtension
 Price-Comparison-WebExtension
 
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+THIS IS RUNNING OF MY API KEY FOR FREE
+SO AFTER EVERYONE USES IT YOU WILL HAVE TOO CHANGE IT!
+SERPAPI(FREE API) IVE ALREADY DONE THE CODE JUST CHANGE
+THE API KEY IN popup.js
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+
 Unlock the best deals with this open-source web extension that **compares prices** of items across multiple online retailers.
 
 ### Features:
