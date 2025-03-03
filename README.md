@@ -3,9 +3,9 @@ Price-Comparison-WebExtension
 
 //////////////////////////////////////////////////////
 //////////////////////////////////////////////////////
-THIS IS RUNNING OF MY API KEY FOR FREE
-SO AFTER EVERYONE USES IT YOU WILL HAVE TOO CHANGE IT!
-SERPAPI(FREE API) IVE ALREADY DONE THE CODE JUST CHANGE
+THIS IS RUNNING OFF MY PERSONAL API KEY FOR FREE,
+SO AFTER USE, EVERYONE WILL HAVE TO CHANGE IT!
+SERPAPI(FREE API) IVE ALREADY CREATED A JS
 THE API KEY IN popup.js
 //////////////////////////////////////////////////////
 //////////////////////////////////////////////////////
